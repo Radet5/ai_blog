@@ -1,0 +1,12 @@
+[
+Green,
+Beauty,
+Female,
+Girl,
+Photo shoot,
+Portrait photography,
+Portrait,
+Model,
+Woman,
+Lady
+]

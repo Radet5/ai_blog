@@ -1,0 +1,804 @@
+{
+  "cropHintsAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 768
+            },
+            {
+              "x": 2406
+            },
+            {
+              "x": 2406,
+              "y": 2047
+            },
+            {
+              "x": 768,
+              "y": 2047
+            }
+          ]
+        },
+        "confidence": 0.5566406,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 614
+            },
+            {
+              "x": 2662
+            },
+            {
+              "x": 2662,
+              "y": 2047
+            },
+            {
+              "x": 614,
+              "y": 2047
+            }
+          ]
+        },
+        "confidence": 0.4453125,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 153
+            },
+            {
+              "x": 2611
+            },
+            {
+              "x": 2611,
+              "y": 2047
+            },
+            {
+              "x": 153,
+              "y": 2047
+            }
+          ]
+        },
+        "confidence": 0.37109375,
+        "importanceFraction": 1
+      }
+    ]
+  },
+  "fullTextAnnotation": {
+    "pages": [
+      {
+        "blocks": [
+          {
+            "blockType": "TEXT",
+            "boundingBox": {
+              "vertices": [
+                {
+                  "x": 1025,
+                  "y": 1022
+                },
+                {
+                  "x": 1120,
+                  "y": 967
+                },
+                {
+                  "x": 1171,
+                  "y": 1056
+                },
+                {
+                  "x": 1076,
+                  "y": 1111
+                }
+              ]
+            },
+            "confidence": 0.70316,
+            "paragraphs": [
+              {
+                "boundingBox": {
+                  "vertices": [
+                    {
+                      "x": 1025,
+                      "y": 1022
+                    },
+                    {
+                      "x": 1120,
+                      "y": 967
+                    },
+                    {
+                      "x": 1171,
+                      "y": 1056
+                    },
+                    {
+                      "x": 1076,
+                      "y": 1111
+                    }
+                  ]
+                },
+                "confidence": 0.70316,
+                "words": [
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 1025,
+                          "y": 1022
+                        },
+                        {
+                          "x": 1049,
+                          "y": 1008
+                        },
+                        {
+                          "x": 1100,
+                          "y": 1097
+                        },
+                        {
+                          "x": 1076,
+                          "y": 1111
+                        }
+                      ]
+                    },
+                    "confidence": 0.4146527,
+                    "symbols": [
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 1025,
+                              "y": 1022
+                            },
+                            {
+                              "x": 1049,
+                              "y": 1008
+                            },
+                            {
+                              "x": 1100,
+                              "y": 1097
+                            },
+                            {
+                              "x": 1076,
+                              "y": 1111
+                            }
+                          ]
+                        },
+                        "confidence": 0.4146527,
+                        "text": "*"
+                      }
+                    ]
+                  },
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 1059,
+                          "y": 1002
+                        },
+                        {
+                          "x": 1088,
+                          "y": 986
+                        },
+                        {
+                          "x": 1138,
+                          "y": 1074
+                        },
+                        {
+                          "x": 1110,
+                          "y": 1091
+                        }
+                      ]
+                    },
+                    "confidence": 0.90335447,
+                    "symbols": [
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 1059,
+                              "y": 1002
+                            },
+                            {
+                              "x": 1088,
+                              "y": 986
+                            },
+                            {
+                              "x": 1138,
+                              "y": 1074
+                            },
+                            {
+                              "x": 1110,
+                              "y": 1091
+                            }
+                          ]
+                        },
+                        "confidence": 0.90335447,
+                        "text": "/"
+                      }
+                    ]
+                  },
+                  {
+                    "boundingBox": {
+                      "vertices": [
+                        {
+                          "x": 1100,
+                          "y": 979
+                        },
+                        {
+                          "x": 1121,
+                          "y": 967
+                        },
+                        {
+                          "x": 1172,
+                          "y": 1056
+                        },
+                        {
+                          "x": 1151,
+                          "y": 1068
+                        }
+                      ]
+                    },
+                    "confidence": 0.79147273,
+                    "symbols": [
+                      {
+                        "boundingBox": {
+                          "vertices": [
+                            {
+                              "x": 1100,
+                              "y": 979
+                            },
+                            {
+                              "x": 1121,
+                              "y": 967
+                            },
+                            {
+                              "x": 1172,
+                              "y": 1056
+                            },
+                            {
+                              "x": 1151,
+                              "y": 1068
+                            }
+                          ]
+                        },
+                        "confidence": 0.79147273,
+                        "property": {
+                          "detectedBreak": {
+                            "type": "LINE_BREAK"
+                          }
+                        },
+                        "text": "*"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "confidence": 0.70316,
+        "height": 2048,
+        "width": 3072
+      }
+    ],
+    "text": "*/*"
+  },
+  "imagePropertiesAnnotation": {
+    "cropHints": [
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 768
+            },
+            {
+              "x": 2406
+            },
+            {
+              "x": 2406,
+              "y": 2047
+            },
+            {
+              "x": 768,
+              "y": 2047
+            }
+          ]
+        },
+        "confidence": 0.5566406,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 614
+            },
+            {
+              "x": 2662
+            },
+            {
+              "x": 2662,
+              "y": 2047
+            },
+            {
+              "x": 614,
+              "y": 2047
+            }
+          ]
+        },
+        "confidence": 0.4453125,
+        "importanceFraction": 1
+      },
+      {
+        "boundingPoly": {
+          "vertices": [
+            {
+              "x": 153
+            },
+            {
+              "x": 2611
+            },
+            {
+              "x": 2611,
+              "y": 2047
+            },
+            {
+              "x": 153,
+              "y": 2047
+            }
+          ]
+        },
+        "confidence": 0.37109375,
+        "importanceFraction": 1
+      }
+    ],
+    "dominantColors": {
+      "colors": [
+        {
+          "color": {
+            "blue": 171,
+            "green": 191,
+            "red": 202
+          },
+          "hex": "CABFAB",
+          "percent": 38.254559433971195,
+          "percentRounded": 38,
+          "pixelFraction": 0.08433333,
+          "rgb": "202, 191,\n 171",
+          "score": 0.334011
+        },
+        {
+          "color": {
+            "blue": 54,
+            "green": 57,
+            "red": 52
+          },
+          "hex": "343936",
+          "percent": 6.872034392190201,
+          "percentRounded": 7,
+          "pixelFraction": 0.0776,
+          "rgb": "52, 57,\n 54",
+          "score": 0.060001608
+        },
+        {
+          "color": {
+            "blue": 104,
+            "green": 62,
+            "red": 36
+          },
+          "hex": "243E68",
+          "percent": 5.556925579791891,
+          "percentRounded": 6,
+          "pixelFraction": 0.06733333,
+          "rgb": "36, 62,\n 104",
+          "score": 0.048519034
+        },
+        {
+          "color": {
+            "blue": 142,
+            "green": 161,
+            "red": 170
+          },
+          "hex": "AAA18E",
+          "percent": 15.790300084479664,
+          "percentRounded": 16,
+          "pixelFraction": 0.05906667,
+          "rgb": "170, 161,\n 142",
+          "score": 0.13786942
+        },
+        {
+          "color": {
+            "blue": 181,
+            "green": 192,
+            "red": 199
+          },
+          "hex": "C7C0B5",
+          "percent": 6.621677655833677,
+          "percentRounded": 7,
+          "pixelFraction": 0.028066667,
+          "rgb": "199, 192,\n 181",
+          "score": 0.057815675
+        },
+        {
+          "color": {
+            "blue": 76,
+            "green": 82,
+            "red": 80
+          },
+          "hex": "50524C",
+          "percent": 6.212427478859197,
+          "percentRounded": 6,
+          "pixelFraction": 0.040066667,
+          "rgb": "80, 82,\n 76",
+          "score": 0.0542424
+        },
+        {
+          "color": {
+            "blue": 146,
+            "green": 157,
+            "red": 161
+          },
+          "hex": "A19D92",
+          "percent": 6.1466882672589,
+          "percentRounded": 6,
+          "pixelFraction": 0.0348,
+          "rgb": "161, 157,\n 146",
+          "score": 0.053668413
+        },
+        {
+          "color": {
+            "blue": 111,
+            "green": 121,
+            "red": 123
+          },
+          "hex": "7B796F",
+          "percent": 5.28920161635767,
+          "percentRounded": 5,
+          "pixelFraction": 0.032866668,
+          "rgb": "123, 121,\n 111",
+          "score": 0.046181463
+        },
+        {
+          "color": {
+            "blue": 93,
+            "green": 60,
+            "red": 39
+          },
+          "hex": "273C5D",
+          "percent": 4.734234313451396,
+          "percentRounded": 5,
+          "pixelFraction": 0.1168,
+          "rgb": "39, 60,\n 93",
+          "score": 0.041335892
+        },
+        {
+          "color": {
+            "blue": 100,
+            "green": 119,
+            "red": 126
+          },
+          "hex": "7E7764",
+          "percent": 4.521951177806209,
+          "percentRounded": 5,
+          "pixelFraction": 0.0228,
+          "rgb": "126, 119,\n 100",
+          "score": 0.03948239
+        }
+      ]
+    }
+  },
+  "labelAnnotations": [
+    {
+      "description": "Sky",
+      "mid": "/m/01bqvp",
+      "score": 0.96541655,
+      "topicality": 0.96541655
+    },
+    {
+      "description": "Building",
+      "mid": "/m/0cgh4",
+      "score": 0.9580611,
+      "topicality": 0.9580611
+    },
+    {
+      "description": "Plant",
+      "mid": "/m/05s2s",
+      "score": 0.953303,
+      "topicality": 0.953303
+    },
+    {
+      "description": "Cloud",
+      "mid": "/m/0csby",
+      "score": 0.9251508,
+      "topicality": 0.9251508
+    },
+    {
+      "description": "Window",
+      "mid": "/m/0d4v4",
+      "score": 0.88749826,
+      "topicality": 0.88749826
+    },
+    {
+      "description": "Tree",
+      "mid": "/m/07j7r",
+      "score": 0.88020325,
+      "topicality": 0.88020325
+    },
+    {
+      "description": "Facade",
+      "mid": "/m/01x314",
+      "score": 0.76409477,
+      "topicality": 0.76409477
+    },
+    {
+      "description": "Turret",
+      "mid": "/m/01xgbj",
+      "score": 0.7453473,
+      "topicality": 0.7453473
+    },
+    {
+      "description": "Grass",
+      "mid": "/m/08t9c_",
+      "score": 0.73577476,
+      "topicality": 0.73577476
+    },
+    {
+      "description": "Medieval architecture",
+      "mid": "/m/01ht1r",
+      "score": 0.6758555,
+      "topicality": 0.6758555
+    },
+    {
+      "description": "Castle",
+      "mid": "/m/0d5gx",
+      "score": 0.67557764,
+      "topicality": 0.67557764
+    },
+    {
+      "description": "History",
+      "mid": "/m/03g3w",
+      "score": 0.63680446,
+      "topicality": 0.63680446
+    },
+    {
+      "description": "Manor house",
+      "mid": "/m/039_j3",
+      "score": 0.61692095,
+      "topicality": 0.61692095
+    },
+    {
+      "description": "Historic site",
+      "mid": "/m/07yr8h",
+      "score": 0.5956277,
+      "topicality": 0.5956277
+    },
+    {
+      "description": "Middle ages",
+      "mid": "/m/04rjz",
+      "score": 0.5561131,
+      "topicality": 0.5561131
+    },
+    {
+      "description": "Ancient history",
+      "mid": "/m/0djmp",
+      "score": 0.51946825,
+      "topicality": 0.51946825
+    },
+    {
+      "description": "Stately home",
+      "mid": "/m/0sy84",
+      "score": 0.5133149,
+      "topicality": 0.5133149
+    },
+    {
+      "description": "Landscape",
+      "mid": "/m/025s3q0",
+      "score": 0.50737274,
+      "topicality": 0.50737274
+    },
+    {
+      "description": "Estate",
+      "mid": "/m/038t8_",
+      "score": 0.5017935,
+      "topicality": 0.5017935
+    }
+  ],
+  "landmarkAnnotations": [
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 491,
+            "y": 173
+          },
+          {
+            "x": 2636,
+            "y": 173
+          },
+          {
+            "x": 2636,
+            "y": 1475
+          },
+          {
+            "x": 491,
+            "y": 1475
+          }
+        ]
+      },
+      "description": "Niedzica Castle",
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 49.421471000000004,
+            "longitude": 20.319428
+          }
+        }
+      ],
+      "mid": "/m/02pql0g",
+      "score": 0.8486266
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 368,
+            "y": 521
+          },
+          {
+            "x": 2150,
+            "y": 521
+          },
+          {
+            "x": 2150,
+            "y": 1526
+          },
+          {
+            "x": 368,
+            "y": 1526
+          }
+        ]
+      },
+      "description": "The Association of Art Historians. Museum - Castle in Niedzica",
+      "locations": [
+        {
+          "latLng": {
+            "latitude": 49.4224199,
+            "longitude": 20.319728899999998
+          }
+        }
+      ],
+      "mid": "/g/1tcx5sml",
+      "score": 0.7651578
+    }
+  ],
+  "localizedObjectAnnotations": [
+    {
+      "boundingPoly": {
+        "normalizedVertices": [
+          {
+            "x": 0.06315223,
+            "y": 0.041343298
+          },
+          {
+            "x": 0.89646435,
+            "y": 0.041343298
+          },
+          {
+            "x": 0.89646435,
+            "y": 0.9542505
+          },
+          {
+            "x": 0.06315223,
+            "y": 0.9542505
+          }
+        ]
+      },
+      "mid": "/m/0d5gx",
+      "name": "Castle",
+      "score": 0.8740923
+    }
+  ],
+  "safeSearchAnnotation": {
+    "adult": "VERY_UNLIKELY",
+    "medical": "VERY_UNLIKELY",
+    "racy": "VERY_UNLIKELY",
+    "spoof": "VERY_UNLIKELY",
+    "violence": "VERY_UNLIKELY"
+  },
+  "textAnnotations": [
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1025,
+            "y": 967
+          },
+          {
+            "x": 1172,
+            "y": 967
+          },
+          {
+            "x": 1172,
+            "y": 1110
+          },
+          {
+            "x": 1025,
+            "y": 1110
+          }
+        ]
+      },
+      "description": "*/*",
+      "locale": "und"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1025,
+            "y": 1022
+          },
+          {
+            "x": 1049,
+            "y": 1008
+          },
+          {
+            "x": 1100,
+            "y": 1097
+          },
+          {
+            "x": 1076,
+            "y": 1111
+          }
+        ]
+      },
+      "description": "*"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1059,
+            "y": 1002
+          },
+          {
+            "x": 1088,
+            "y": 986
+          },
+          {
+            "x": 1138,
+            "y": 1074
+          },
+          {
+            "x": 1110,
+            "y": 1091
+          }
+        ]
+      },
+      "description": "/"
+    },
+    {
+      "boundingPoly": {
+        "vertices": [
+          {
+            "x": 1100,
+            "y": 979
+          },
+          {
+            "x": 1121,
+            "y": 967
+          },
+          {
+            "x": 1172,
+            "y": 1056
+          },
+          {
+            "x": 1151,
+            "y": 1068
+          }
+        ]
+      },
+      "description": "*"
+    }
+  ]
+}

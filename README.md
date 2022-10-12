@@ -1,0 +1,1 @@
+ blog that practically writes itself!
