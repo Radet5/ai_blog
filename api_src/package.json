@@ -1,0 +1,12 @@
+{
+  "name": "ai_blog_builder",
+  "version": "1.0.0",
+  "description": "builds a blog based on supplied images",
+  "main": "index.js",
+  "author": "Radet 5",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
